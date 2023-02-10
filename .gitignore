@@ -15,3 +15,4 @@ parameters/all-parameters.dita
 parameters/parameters-*.dita
 platform.ditaval
 samples/properties/template.properties
+.oxygenxml/*
